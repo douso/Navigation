@@ -3972,7 +3972,9 @@ body.chat-open #chat {
         margin-bottom: 0
     }
     .page-container .sidebar-menu .sidebar-menu-inner .main-menu.mobile-is-visible {
-        display: block
+        display: block;
+        overflow-y: auto;
+        height: calc(100vh - 91px)
     }
     .page-container .sidebar-menu .sidebar-menu-inner .main-menu.mobile-is-visible.both-menus-visible {
         margin-top: 0;
