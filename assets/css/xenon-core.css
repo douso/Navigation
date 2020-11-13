@@ -3944,7 +3944,8 @@ body.chat-open #chat {
         display: inline-block;
         color: #979898;
         line-height: 1;
-        margin-left: 20px
+        margin-left: 20px;
+        margin-top: 12px;
     }
     .page-container .sidebar-menu .sidebar-menu-inner .logo-env .mobile-menu-toggle a i {
         line-height: 1;
