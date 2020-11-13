@@ -74,6 +74,7 @@
                 <ul id="main-menu" class="main-menu"></ul>
             </div>
         </div>
+        <div class="mobile-empty-box"></div>
         <div class="main-content">
             <nav class="navbar user-info-navbar" role="navigation">
                 <!-- User Info, Notifications and Menu Bar -->
@@ -182,8 +183,9 @@
                 window.location.href = href
                 return
             }
+            const offset = document.body.clientWidth > 768 ? 20 : 100
             $("html, body").animate({
-                scrollTop: anchor.offset().top - 30
+                scrollTop: anchor.offset().top - offset
             }, {
                 duration: 500,
                 easing: "swing"
@@ -195,6 +197,8 @@
     var href = "";
     var pos = 0;
     $(document).on('click', '#main-menu a.smooth', function(e) {
+        const offset = document.body.clientWidth > 768 ? 20 : 100
+        console.log(document.body.clientWidth)
         $("#main-menu li").each(function() {
             $(this).removeClass("active");
         });
@@ -203,7 +207,7 @@
         href = $(this).attr("href");
         const anchor = $(href)
         if(anchor.length > 0){
-            pos = $(href).position().top - 30;
+            pos = $(href).position().top - offset;
         }
     });
     </script>

@@ -3921,7 +3921,8 @@ body.chat-open #chat {
         height: auto
     }
     .page-container .sidebar-menu {
-        position: relative
+        position: fixed;
+        z-index: 1000;
     }
     .page-container .sidebar-menu .sidebar-menu-inner {
         position: relative
@@ -9056,5 +9057,16 @@ pre {
     .page-body .jumbotron {
         padding-top: 15px;
         padding-bottom: 48px
+    }
+}
+
+.mobile-empty-box {
+    display: none;
+}
+@media screen and (max-width:768px) {
+    .mobile-empty-box {
+        display: block;
+        width: 100%;
+        height: 61px;
     }
 }
