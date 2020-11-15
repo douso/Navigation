@@ -9065,7 +9065,7 @@ pre {
 .mobile-empty-box {
     display: none;
 }
-.sidebar-menu .logo-env .logo img {
+.sidebar-menu .logo-env .logo img, .navbar.horizontal-menu .navbar-inner .navbar-brand img {
     height: 55px;
 }
 @media screen and (max-width:768px) {
@@ -9074,7 +9074,7 @@ pre {
         width: 100%;
         height: 61px;
     }
-    .sidebar-menu .logo-env .logo img {
+    .sidebar-menu .logo-env .logo img, .navbar.horizontal-menu .navbar-inner .navbar-brand img {
         height: 40px;
     }
 }
