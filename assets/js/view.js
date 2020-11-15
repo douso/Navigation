@@ -1761,7 +1761,7 @@ function showNavList(navs) {
                             <img data-src="assets/images/logos/${list[i].logo}" class="lozad img-circle" width="40">
                         </a>
                         <div class="xe-comment">
-                            <a href="#" class="xe-user-name overflowClip_1">
+                            <a class="xe-user-name overflowClip_1">
                                 <strong>${list[i].title}</strong>
                             </a>
                             <p class="overflowClip_2">${list[i].description}</p>
