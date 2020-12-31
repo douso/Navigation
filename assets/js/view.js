@@ -5,6 +5,10 @@ const allData = {
             "icon": "linecons-star"
         },
         {
+            "name": "IT园区",
+            "icon": "linecons-cloud"
+        },
+        {
             "name": "社区资讯",
             "icon": "linecons-doc"
         },
@@ -120,117 +124,51 @@ const allData = {
             "name": "常用推荐",
             "list": [
                 {
-                    "link": "https://dribbble.com/",
-                    "logo": "dribbble.png",
-                    "title": "Dribbble",
-                    "description": "全球UI设计师作品分享平台。"
-                },
-                {
-                    "link": "https://behance.net/",
-                    "logo": "behance.png",
-                    "title": "Behance",
-                    "description": "Adobe旗下的设计师交流平台，来自世界各地的设计师在这里分享自己的作品。"
-                },
-                {
-                    "link": "http://www.ui.cn/",
-                    "logo": "uicn.png",
-                    "title": "UI中国",
-                    "description": "图形交互与界面设计交流、作品展示、学习平台。"
-                },
-                {
-                    "link": "http://www.zcool.com.cn/",
-                    "logo": "zcool.png",
-                    "title": "站酷",
-                    "description": "中国人气设计师互动平台"
-                },
-                {
-                    "link": "https://www.pinterest.com/",
-                    "logo": "pinterest.png",
-                    "title": "Pinterest",
-                    "description": "全球美图收藏采集站"
-                },
-                {
-                    "link": "http://huaban.com/",
-                    "logo": "huaban.png",
-                    "title": "花瓣",
-                    "description": "收集灵感,保存有用的素材"
-                },
-                {
-                    "link": "https://medium.com/",
-                    "logo": "medium.png",
-                    "title": "Medium",
-                    "description": "高质量设计文章"
-                },
-                {
-                    "link": "http://www.uisdc.com/",
-                    "logo": "uisdc.png",
-                    "title": "优设",
-                    "description": "设计师交流学习平台"
-                },
-                {
-                    "link": "https://www.producthunt.com/",
-                    "logo": "producthunt.png",
-                    "title": "Producthunt",
-                    "description": "发现新鲜有趣的产品"
-                },
-                {
-                    "link": "https://www.youtube.com/",
-                    "logo": "youtube.png",
-                    "title": "Youtube",
-                    "description": "全球最大的学习分享平台"
-                },
-                {
-                    "link": "https://www.google.com/",
-                    "logo": "google.png",
-                    "title": "Google",
-                    "description": "全球最大的UI学习分享平台"
+                    "link": "https://www.lodashjs.com/",
+                    "logo": "lodash.png",
+                    "title": "Lodash中文网",
+                    "description": "JavaScript实用工具库"
                 }
             ]
         },
         {
-            "name": "推荐",
+            "name": "IT园区",
             "list": [
                 {
-                    "link": "https://www.aliyun.com/minisite/goods?userCode=xtct5egx&share_source=copy_link",
-                    "logo": "aliyun.png",
-                    "title": "阿里云",
-                    "description": "点击领取2000元限量云产品优惠券"
+                    "link": "https://www.awesomes.cn/",
+                    "logo": "awesomes.png",
+                    "title": "Awesomes",
+                    "description": "Web前端开发资源库"
                 },
                 {
-                    "link": "https://www.gulusucai.com/",
-                    "logo": "gulusucai.png",
-                    "title": "咕噜素材",
-                    "description": "质量很高的设计素材网站（推荐）"
+                    "link": "https://www.lodashjs.com/",
+                    "logo": "lodash.png",
+                    "title": "Lodash中文网",
+                    "description": "JavaScript实用工具库"
                 },
                 {
-                    "link": "https://xiyou4you.us/r/?s=13731627",
-                    "logo": "xiyou.png",
-                    "title": "西游-科学上网",
-                    "description": "优秀的科学上网（略贵，但是贼稳，点击注册领取优惠券）"
+                    "link": "https://www.runoob.com/",
+                    "logo": "cainiao.png",
+                    "title": "菜鸟教程",
+                    "description": "基础编程技术教程"
                 },
                 {
-                    "link": "https://www.link360.top/",
-                    "logo": "ss-kexueshangwang.png",
-                    "title": "SS梯子",
-                    "description": "SS梯子-科学上网（实惠，但是不太稳）"
-                },
-                {
-                    "link": "https://www.shejizhoukan.com/",
-                    "logo": "shejizhoukan.png",
-                    "title": "设计周刊",
-                    "description": "最新设计资讯（每天更新）"
-                },
-                {
-                    "link": "https://www.ziticangku.com/",
-                    "logo": "ziticangku.png",
-                    "title": "字体仓库",
-                    "description": "最全的免费商用字体库"
+                    "link": "https://www.osboxes.org/",
+                    "logo": "osboxes.png",
+                    "title": "OSBoxes",
+                    "description": "Virtual machines (VDI & VMDK & VHD) for VirtualBox and VMware"
                 }
             ]
         },
         {
             "name": "社区资讯",
             "list": [
+                {
+                    "link": "https://www.shejizhoukan.com/",
+                    "logo": "shejizhoukan.png",
+                    "title": "设计周刊",
+                    "description": "最新设计资讯（每天更新）"
+                },
                 {
                     "link": "https://www.leiphone.com/",
                     "logo": "leiphone.png",
@@ -660,6 +598,48 @@ const allData = {
         {
             "name": "UI资源",
             "list": [
+                {
+                    "link": "https://dribbble.com/",
+                    "logo": "dribbble.png",
+                    "title": "Dribbble",
+                    "description": "全球UI设计师作品分享平台。"
+                },
+                {
+                    "link": "https://behance.net/",
+                    "logo": "behance.png",
+                    "title": "Behance",
+                    "description": "Adobe旗下的设计师交流平台，来自世界各地的设计师在这里分享自己的作品。"
+                },
+                {
+                    "link": "http://www.ui.cn/",
+                    "logo": "uicn.png",
+                    "title": "UI中国",
+                    "description": "图形交互与界面设计交流、作品展示、学习平台。"
+                },
+                {
+                    "link": "http://www.zcool.com.cn/",
+                    "logo": "zcool.png",
+                    "title": "站酷",
+                    "description": "中国人气设计师互动平台"
+                },
+                {
+                    "link": "https://www.pinterest.com/",
+                    "logo": "pinterest.png",
+                    "title": "Pinterest",
+                    "description": "全球美图收藏采集站"
+                },
+                {
+                    "link": "http://huaban.com/",
+                    "logo": "huaban.png",
+                    "title": "花瓣",
+                    "description": "收集灵感,保存有用的素材"
+                },
+                {
+                    "link": "https://medium.com/",
+                    "logo": "medium.png",
+                    "title": "Medium",
+                    "description": "高质量设计文章"
+                },
                 {
                     "link": "https://www.gulusucai.com/",
                     "logo": "gulusucai.png",
