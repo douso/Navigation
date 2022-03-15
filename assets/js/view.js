@@ -372,6 +372,12 @@ const allData = {
                     "title": "uTools",
                     "description": "uTools 是新一代效率工具平台，通过自由选配丰富的插件，打造得心应手的工具集合！"
                 },
+                {
+                    "link": "https://freessl.cn/",
+                    "logo": "freessl.ico",
+                    "title": "FreeSSL",
+                    "description": "一个提供免费HTTPS证书申请的网站！"
+                },
             ]
         },
         {
@@ -431,7 +437,9 @@ function showHistory() {
         console.log(m, i)
         navs[0].list.push(allData.navs[m].list[i]);
     }
-    showNavList(navs);
+    if (navs[0].list.length > 0) {
+        showNavList(navs);
+    }
 }
 
 // 渲染菜单栏
