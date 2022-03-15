@@ -152,7 +152,7 @@ const allData = {
             "list": [
                 {
                     "link": "https://leetcode-cn.com/",
-                    "logo": "visualgo.png",
+                    "logo": "leetcode.png",
                     "title": "LeetCode",
                     "description": "全球极客挚爱的技术成长平台，包含题解、算法、在线编程等！"
                 },
