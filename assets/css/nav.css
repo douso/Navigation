@@ -65,3 +65,18 @@
 .img-circle {
     padding: 7px 0;
 }
+.label {
+    color: #c9c084;
+}
+
+::-webkit-scrollbar {
+    width: 8px;
+    height: 8px;
+}
+::-webkit-scrollbar-thumb {
+    border-radius: 8px;
+    background-color: #d7dadd;
+}
+::-webkit-scrollbar-track {
+    background: hsla(210,8%,51%,.09);
+}

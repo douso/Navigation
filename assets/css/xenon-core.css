@@ -971,7 +971,7 @@ body {
 }
 
 .sidebar-menu .main-menu a {
-    color: #979898;
+    color: #c9c084;
     text-decoration: none;
     display: block;
     padding: 13px 5px;
@@ -1001,11 +1001,11 @@ body {
 }
 
 .sidebar-menu .main-menu a:hover {
-    color: #fff
+    color: #fff700;
 }
 
 .sidebar-menu .main-menu li.active>a {
-    color: #fff
+    color: #fff700;
 }
 
 .sidebar-menu .main-menu li.has-sub>a:before {
@@ -1014,7 +1014,7 @@ body {
     font-family: FontAwesome;
     content: '\f107';
     float: right;
-    color: #6d747a;
+    color: #c9c084;
     margin-left: 10px;
     -webkit-transform: rotate(-90deg);
     -moz-transform: rotate(-90deg);
