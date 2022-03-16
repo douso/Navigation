@@ -397,7 +397,7 @@ const allData = {
                 },
                 {
                     "link": "http://panother.com/",
-                    "logo": "alipanyou.ico",
+                    "logo": "panother.ico",
                     "title": "盘他",
                     "description": "阿里云盘和百度云盘合集！"
                 },
