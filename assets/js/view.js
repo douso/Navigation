@@ -11,6 +11,9 @@ const allData = {
                     "name": "JavaScript库"
                 },
                 {
+                    "name": "UI框架",
+                },
+                {
                     "name": "算法资源"
                 },
                 {
@@ -144,6 +147,53 @@ const allData = {
                     "logo": "30secondsofcode.png",
                     "title": "30 seconds of code",
                     "description": "用30秒的代码浏览1106个简短的代码片段，了解您的所有开发需求。"
+                },
+            ]
+        },
+        {
+            "name": "UI框架",
+            "list": [
+                {
+                    "link": "https://element-plus.gitee.io/zh-CN/#/zh-CN/component/installation",
+                    "logo": "element-plus.svg",
+                    "title": "Element Plus",
+                    "description": "一个 Vue 3 UI 框架!"
+                },
+                {
+                    "link": "https://ant.design/index-cn",
+                    "logo": "ant.design.png",
+                    "title": "Ant Design",
+                    "description": "一套企业级 UI 设计语言和 React 组件库!"
+                },
+                {
+                    "link": "https://vvbin.cn/doc-next/",
+                    "logo": "vben-admin.png",
+                    "title": "Vben Admin",
+                    "description": "基于Vue3、Vite、TypeScript等开发的开箱即用前端框架!"
+                },
+                {
+                    "link": "https://github.com/cmdparkour/vue-admin-box",
+                    "logo": "github.png",
+                    "title": "vue-admin-box",
+                    "description": "基于vue3+vite+element-plus开发的后台管理系统模板!"
+                },
+                {
+                    "link": "https://taro.jd.com/",
+                    "logo": "Taro.png",
+                    "title": "Taro",
+                    "description": "京东凹凸实验室开发的多端统一开发解决方案!"
+                },
+                {
+                    "link": "https://varlet.gitee.io/varlet-ui/#/zh-CN/home",
+                    "logo": "varlet_icon.png",
+                    "title": "Varlet",
+                    "description": "面向 Vue3 的 Material 风格移动端组件库!"
+                },
+                {
+                    "link": "https://www.uviewui.com/",
+                    "logo": "uView.ico",
+                    "title": "uView",
+                    "description": "全面兼容nvue的uni-app生态框架!"
                 },
             ]
         },
