@@ -428,6 +428,12 @@ const allData = {
                     "title": "FreeSSL",
                     "description": "一个提供免费HTTPS证书申请的网站！"
                 },
+                {
+                    "link": "https://zenvideo.qq.com/",
+                    "logo": "zenvideo.ico",
+                    "title": "智影",
+                    "description": "帮助用户高效完成视频剪辑、文章转视频、智能去水印、文本转语音等操作！"
+                },
             ]
         },
         {
@@ -459,7 +465,11 @@ const allData = {
 $(function () {
     showMenu(allData.menu)
     showNavList(allData.navs)
-    showHistory();
+    try {
+        showHistory();
+    } catch(err) {
+        console.log('最近使用丢失')
+    }
     //img lazy loaded
     const observer = lozad();
     observer.observe();
@@ -484,7 +494,6 @@ function showHistory() {
     }];
     for (const item of list) {
         const [m, i] = item.split('_');
-        console.log(m, i)
         navs[0].list.push(allData.navs[m].list[i]);
     }
     if (navs[0].list.length > 0) {
