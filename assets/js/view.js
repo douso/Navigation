@@ -468,7 +468,7 @@ $(function () {
     try {
         showHistory();
     } catch(err) {
-        console.log('最近使用丢失')
+        localStorage.removeItem('history-list');
     }
     //img lazy loaded
     const observer = lozad();
