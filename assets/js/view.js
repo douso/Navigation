@@ -47,6 +47,10 @@ const allData = {
         {
             "name": "网盘搜索",
             "icon": "linecons-heart", 
+        },
+        {
+            "name": "音乐平台",
+            "icon": "linecons-music"
         }
     ],
     "navs": [
@@ -456,6 +460,53 @@ const allData = {
                     "logo": "panother.ico",
                     "title": "盘他",
                     "description": "阿里云盘和百度云盘合集！"
+                },
+            ]
+        },
+        {
+            "name": "音乐平台",
+            "list": [
+                {
+                    "link": "https://lofi.co",
+                    "logo": "lofi.jpg",
+                    "title": "lofi.co",
+                    "description": "与精彩的原创艺术作品互动，创造一个定制的背景循环音乐！"
+                },
+                {
+                    "link": "https://coderadio.freecodecamp.org/",
+                    "logo": "freecodecamp.png",
+                    "title": "freecodecamp",
+                    "description": "开发人员全天候专注音乐！"
+                },
+                {
+                    "link": "https://www.lofi.cafe/",
+                    "logo": "lofi.cafe.png",
+                    "title": "lofi.cafe",
+                    "description": "用于学习、工作和放松的Lofi音乐流!"
+                },
+                {
+                    "link": "https://musicforprogramming.net/latest/",
+                    "logo": "musicforprogramming.png",
+                    "title": "音乐编程网",
+                    "description": "提供了一系列用于在编程时倾听的混音，以集中大脑并激发思维!"
+                },
+                {
+                    "link": "https://chillstep.info",
+                    "logo": "chillstep.png",
+                    "title": "chillstep",
+                    "description": "全天候播放缓慢、深沉、旋律优美、醇厚的dubstep音乐，以及与之密切相关的小众音乐类型!"
+                },
+                {
+                    "link": "https://radio.madza.dev/",
+                    "logo": "DevTunes.ico",
+                    "title": "DevTunes FM",
+                    "description": "为不同类型电台的编码员提供在线广播!"
+                },
+                {
+                    "link": "https://github.com/lyswhut/lx-music-desktop",
+                    "logo": "github.png",
+                    "title": "洛雪音乐",
+                    "description": "一个基于 Electron + Vue 开发的音乐软件，支持PC和移动端!"
                 },
             ]
         }
