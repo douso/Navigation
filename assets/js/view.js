@@ -58,6 +58,12 @@ const allData = {
             "name": "常用工具",
             "list": [
                 {
+                    "link": "https://app.daily.dev/",
+                    "logo": "daily.dev.png",
+                    "title": "daily.dev",
+                    "description": "集合多平台的开发者技术文章，每天都有更新!"
+                },
+                {
                     "link": "https://tool.lu/",
                     "logo": "toollu.png",
                     "title": "在线工具",
@@ -104,6 +110,12 @@ const allData = {
                     "logo": "osboxes.png",
                     "title": "OSBoxes",
                     "description": "用于VirtualBox和VMware的虚拟机（VDI、VMDK和VHD）"
+                },
+                {
+                    "link": "https://openbase.com/",
+                    "logo": "openbase.png",
+                    "title": "openbase",
+                    "description": "帮助开发人员在数百万个开源包中进行选择合适的库"
                 }
             ]
         },
@@ -151,6 +163,12 @@ const allData = {
                     "logo": "30secondsofcode.png",
                     "title": "30 seconds of code",
                     "description": "用30秒的代码浏览1106个简短的代码片段，了解您的所有开发需求。"
+                },
+                {
+                    "link": "https://github.com/remotion-dev/remotion",
+                    "logo": "github.png",
+                    "title": "Remotion",
+                    "description": "使用 React 知识可以创建.MP4格式的动画视频!"
                 },
             ]
         },
@@ -339,6 +357,24 @@ const allData = {
                     "title": "The Economist",
                     "description": "《经济学人》 世界新闻、政治、经济、商业和金融！"
                 },
+                {
+                    "link": "https://www.scientificamerican.com/",
+                    "logo": "scientificamerican.ico",
+                    "title": "Scientific American",
+                    "description": "科学美国人满满的趣味性、科普性，可以帮助我们拓宽眼界，为自己的大脑充电！"
+                },
+                {
+                    "link": "https://www.gutenberg.org/",
+                    "logo": "gutenberg.png",
+                    "title": "Gutenberg",
+                    "description": "英文电子书网站，很多经典的英语原版书籍都能在这里下载到！"
+                },
+                {
+                    "link": "https://www.wired.com/",
+                    "logo": "wired.ico",
+                    "title": "WIRED",
+                    "description": "最新的技术、科学、文化和商业！"
+                },
             ]
         },
         {
@@ -355,6 +391,12 @@ const allData = {
                     "logo": "51voa.jpg",
                     "title": "51voa",
                     "description": "美国之音-VOA听力下载,慢速英语,常速英语,VOA视频！"
+                },
+                {
+                    "link": "https://www.yxgapp.com/",
+                    "logo": "yxgapp.png",
+                    "title": "译学馆",
+                    "description": "一个专注于译制知识视频的平台！"
                 },
                 {
                     "link": "https://tw.voicetube.com/",
