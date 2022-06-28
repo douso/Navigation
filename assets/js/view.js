@@ -58,6 +58,12 @@ const allData = {
             "name": "常用工具",
             "list": [
                 {
+                    "link": "https://www.skypack.dev/",
+                    "logo": "skypack.png",
+                    "title": "Skypack",
+                    "description": "百万开源JavaScript包CDN，针对浏览器进行预优化!"
+                },
+                {
                     "link": "https://app.daily.dev/",
                     "logo": "daily.dev.png",
                     "title": "daily.dev",
@@ -169,6 +175,12 @@ const allData = {
                     "logo": "github.png",
                     "title": "Remotion",
                     "description": "使用 React 知识可以创建.MP4格式的动画视频!"
+                },
+                {
+                    "link": "https://github.com/catdad/canvas-confetti",
+                    "logo": "github.png",
+                    "title": "canvas-confetti",
+                    "description": "纸屑粒子动画库!"
                 },
             ]
         },
