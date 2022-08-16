@@ -567,6 +567,14 @@ const allData = {
     ]
 }
 
+window.onload = () => {
+    'use strict';
+
+    if ('serviceWorker' in navigator) {
+        navigator.serviceWorker.register('/assets/js/pwa.js');
+    }
+}
+
 $(function () {
     showMenu(allData.menu)
     showNavList(allData.navs)

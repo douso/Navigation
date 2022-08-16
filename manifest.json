@@ -1,0 +1,16 @@
+{
+    "name": "Hello World",
+    "short_name": "Hello",
+    "icons": [
+        {
+            "src": "assets/images/logo-collapsed@2x.png",
+            "sizes": "80x80",
+            "type": "image/png"
+        }
+    ],
+    "lang": "en-US",
+    "start_url": "/index.html",
+    "display": "standalone",
+    "background_color": "white",
+    "theme_color": "white"
+}
