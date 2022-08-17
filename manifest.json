@@ -1,10 +1,20 @@
 {
-    "name": "Hello World",
-    "short_name": "Hello",
+    "name": "DouSo导航",
+    "short_name": "DouSo",
     "icons": [
         {
-            "src": "assets/images/logo-collapsed@2x.png",
-            "sizes": "80x80",
+            "src": "assets/images/logo144.png",
+            "sizes": "144x144",
+            "type": "image/png"
+        },
+        {
+            "src": "assets/images/logo152.png",
+            "sizes": "152x152",
+            "type": "image/png"
+        },
+        {
+            "src": "assets/images/logo256.png",
+            "sizes": "256x256",
             "type": "image/png"
         }
     ],
