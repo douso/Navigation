@@ -187,6 +187,12 @@
                     "logo": "github.png",
                     "title": "vConsole",
                     "description": "轻量级手机网页的前端开发者调试面板!"
+                },
+                {
+                    "link": "https://tauri.app/zh/",
+                    "logo": "Tauri.png",
+                    "title": "Tauri",
+                    "description": "打包体积非常小的跨平台桌面应用!"
                 }
             ]
         },
