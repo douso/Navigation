@@ -181,6 +181,12 @@
                     "logo": "github.png",
                     "title": "canvas-confetti",
                     "description": "纸屑粒子动画库!"
+                },
+                {
+                    "link": "https://github.com/Tencent/vConsole",
+                    "logo": "github.png",
+                    "title": "vConsole",
+                    "description": "轻量级手机网页的前端开发者调试面板!"
                 }
             ]
         },
