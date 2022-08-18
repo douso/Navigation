@@ -1,6 +1,14 @@
-import allData from './data.json' assert {type: 'json'};
-
+let allData = {};
 $(function () {
+    fetch('/assets/js/data.json')
+    .then((response) => response.json())
+    .then((json) => {
+        allData = json;
+        render()
+    });
+})
+
+function render() {
     showMenu(allData.menu)
     showNavList(allData.navs)
     try {
@@ -21,7 +29,7 @@ $(function () {
         localStorage.setItem('history-list', JSON.stringify(list));
         window.open(url, '_blank')
     })
-})
+}
 
 // 最近使用
 function showHistory() {
