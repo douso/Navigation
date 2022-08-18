@@ -5,6 +5,7 @@ $(function () {
     .then((json) => {
         allData = json;
         render()
+        stickFooterToBottom();
     });
 })
 
