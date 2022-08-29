@@ -1,12 +1,14 @@
 let allData = {};
 $(function () {
-    fetch('/assets/js/data.json')
-    .then((response) => response.json())
-    .then((json) => {
-        allData = json;
-        render()
-        stickFooterToBottom();
+    $.ajax({
+        type: "get",
+        url: "/assets/js/data.json",
+        async: false, // true为异步请求，false为同步请求
+        success: function (data) {
+            allData = data;
+        }
     });
+    render()
 })
 
 function render() {

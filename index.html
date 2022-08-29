@@ -20,14 +20,14 @@
     <meta name="description" content="Felix - 收集国内外优秀设计网站、UI设计资源网站、灵感创意网站、素材资源网站，定时更新分享优质产品设计书签。www.dfei.vip">
     <link rel="shortcut icon" href="assets/images/favicon.png">
     <!-- pwa -->
-    <link rel="manifest" href="/manifest.json">
+    <!-- <link rel="manifest" href="/manifest.json">
     <link rel="apple-touch-icon" href="assets/images/favicon.png">
     <meta name="theme-color" content="white"/>
     <meta name="apple-mobile-web-app-capable" content="yes">
     <meta name="apple-mobile-web-app-status-bar-style" content="black">
     <meta name="apple-mobile-web-app-title" content="Hello World">
     <meta name="msapplication-TileImage" content="assets/images/favicon.png">
-    <meta name="msapplication-TileColor" content="#FFFFFF">
+    <meta name="msapplication-TileColor" content="#FFFFFF"> -->
     <!-- <link rel="stylesheet" href="http://fonts.googleapis.com/css?family=Arimo:400,700,400italic"> -->
     <link rel="stylesheet" href="assets/css/fonts/linecons/css/linecons.css">
     <link rel="stylesheet" href="assets/css/fonts/fontawesome/css/font-awesome.min.css">
@@ -56,7 +56,7 @@
     <meta name="twitter:image" content="http://www.dfei.vip/assets/images/webstack_banner_cn.png">
     
     <!-- PWA -->
-    <script>
+    <!-- <script>
         window.onload = () => {
             'use strict';
 
@@ -64,7 +64,7 @@
                 navigator.serviceWorker.register('./sw.js');
             }
         }
-    </script>
+    </script> -->
 </head>
 
 <body class="page-body">
@@ -199,7 +199,7 @@
         var pos = 0;
         $(document).on('click', '#main-menu a.smooth', function(e) {
             const offset = document.body.clientWidth > 768 ? 20 : 100
-            console.log(document.body.clientWidth)
+            console.log(offset)
             $("#main-menu li").each(function() {
                 $(this).removeClass("active");
             });
