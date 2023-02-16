@@ -440,7 +440,13 @@
             "name": "电子书",
             "list": [
                 {
-                    "link": "https://zh.hk1lib.org/",
+                    "link": "https://zh.singlelogin.me/",
+                    "logo": "hk1lib.svg",
+                    "title": "Zlibrary",
+                    "description": "免费搜索和下载书籍，图书资源丰富！"
+                },
+                {
+                    "link": "https://lib-tztyynlmwzmaxxhsav2agn2t.1lib.at/",
                     "logo": "hk1lib.svg",
                     "title": "数字图书馆",
                     "description": "免费搜索和下载书籍，图书资源丰富！"
@@ -452,7 +458,7 @@
                     "description": "涵盖了大量编程、计算机类书籍！"
                 },
                 {
-                    "link": "https://sobooks.cc/",
+                    "link": "https://sobooks.net/",
                     "logo": "sobooks.png",
                     "title": "SoBooks",
                     "description": "Kindle电子书,mobi电子书,epub电子书,azw3电子书！"
