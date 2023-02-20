@@ -21,8 +21,19 @@
                 },
                 {
                     "name": "面试资源"
+                },
+                {
+                    "name": "AI工具"
                 }
             ]
+        },
+        {
+            "name": "网盘搜索",
+            "icon": "linecons-heart"
+        },
+        {
+            "name": "电子书",
+            "icon": "linecons-cloud"
         },
         {
             "name": "英语角",
@@ -37,16 +48,8 @@
             ]
         },
         {
-            "name": "电子书",
-            "icon": "linecons-cloud"
-        },
-        {
             "name": "工具箱",
             "icon": "linecons-diamond"
-        },
-        {
-            "name": "网盘搜索",
-            "icon": "linecons-heart"
         },
         {
             "name": "音乐平台",
@@ -331,6 +334,87 @@
             ]
         },
         {
+            "name": "AI工具",
+            "list": [
+                {
+                    "link": "https://lexica.art/",
+                    "logo": "lexica.ico",
+                    "title": "Lexica",
+                    "description": "Stable Diffusion关键词搜索引擎！"
+                },
+                {
+                    "link": "https://lexica.art/",
+                    "logo": "huggingface.ico",
+                    "title": "Hugging Face",
+                    "description": "AI社区，可下载模型！"
+                },
+                {
+                    "link": "https://lexica.art/",
+                    "logo": "civitai.ico",
+                    "title": "Civitai",
+                    "description": "Stable Diffusion models, embeddings, hypernetworks and more！"
+                }
+            ]
+        },
+        {
+            "name": "网盘搜索",
+            "list": [
+                {
+                    "link": "https://www.upyunso.com/",
+                    "logo": "upyunso.png",
+                    "title": "UP云搜",
+                    "description": "阿里云盘,阿里云盘搜索,阿里云盘资源搜索,网盘搜索,资源分享,网盘搜索,网盘搜索引擎,盘搜搜,云盘精灵,小白盘！"
+                },
+                {
+                    "link": "https://www.panyoubbs.com/",
+                    "logo": "alipanyou.ico",
+                    "title": "阿里盘友",
+                    "description": "阿里云盘资源分享,阿里云盘福利码,阿里云盘资源搜索！"
+                },
+                {
+                    "link": "http://panother.com/",
+                    "logo": "panother.ico",
+                    "title": "盘他",
+                    "description": "阿里云盘和百度云盘合集！"
+                }
+            ]
+        },
+        {
+            "name": "电子书",
+            "list": [
+                {
+                    "link": "https://zh.singlelogin.me/",
+                    "logo": "hk1lib.svg",
+                    "title": "Zlibrary",
+                    "description": "免费搜索和下载书籍，图书资源丰富！"
+                },
+                {
+                    "link": "https://lib-tztyynlmwzmaxxhsav2agn2t.1lib.at/",
+                    "logo": "hk1lib.svg",
+                    "title": "数字图书馆",
+                    "description": "免费搜索和下载书籍，图书资源丰富！"
+                },
+                {
+                    "link": "http://www.banshujiang.cn/",
+                    "logo": "banshujiang.png",
+                    "title": "搬书匠",
+                    "description": "涵盖了大量编程、计算机类书籍！"
+                },
+                {
+                    "link": "https://sobooks.net/",
+                    "logo": "sobooks.png",
+                    "title": "SoBooks",
+                    "description": "Kindle电子书,mobi电子书,epub电子书,azw3电子书！"
+                },
+                {
+                    "link": "https://ebook2.lorefree.com/",
+                    "logo": "loreFree.png",
+                    "title": "LoreFree",
+                    "description": "LoreFree-去中心化免费电子书共享社区！"
+                }
+            ]
+        },
+        {
             "name": "英文资讯",
             "list": [
                 {
@@ -437,41 +521,6 @@
             ]
         },
         {
-            "name": "电子书",
-            "list": [
-                {
-                    "link": "https://zh.singlelogin.me/",
-                    "logo": "hk1lib.svg",
-                    "title": "Zlibrary",
-                    "description": "免费搜索和下载书籍，图书资源丰富！"
-                },
-                {
-                    "link": "https://lib-tztyynlmwzmaxxhsav2agn2t.1lib.at/",
-                    "logo": "hk1lib.svg",
-                    "title": "数字图书馆",
-                    "description": "免费搜索和下载书籍，图书资源丰富！"
-                },
-                {
-                    "link": "http://www.banshujiang.cn/",
-                    "logo": "banshujiang.png",
-                    "title": "搬书匠",
-                    "description": "涵盖了大量编程、计算机类书籍！"
-                },
-                {
-                    "link": "https://sobooks.net/",
-                    "logo": "sobooks.png",
-                    "title": "SoBooks",
-                    "description": "Kindle电子书,mobi电子书,epub电子书,azw3电子书！"
-                },
-                {
-                    "link": "https://ebook2.lorefree.com/",
-                    "logo": "loreFree.png",
-                    "title": "LoreFree",
-                    "description": "LoreFree-去中心化免费电子书共享社区！"
-                }
-            ]
-        },
-        {
             "name": "工具箱",
             "list": [
                 {
@@ -509,29 +558,6 @@
                     "logo": "zenvideo.ico",
                     "title": "智影",
                     "description": "帮助用户高效完成视频剪辑、文章转视频、智能去水印、文本转语音等操作！"
-                }
-            ]
-        },
-        {
-            "name": "网盘搜索",
-            "list": [
-                {
-                    "link": "https://www.upyunso.com/",
-                    "logo": "upyunso.png",
-                    "title": "UP云搜",
-                    "description": "阿里云盘,阿里云盘搜索,阿里云盘资源搜索,网盘搜索,资源分享,网盘搜索,网盘搜索引擎,盘搜搜,云盘精灵,小白盘！"
-                },
-                {
-                    "link": "https://www.panyoubbs.com/",
-                    "logo": "alipanyou.ico",
-                    "title": "阿里盘友",
-                    "description": "阿里云盘资源分享,阿里云盘福利码,阿里云盘资源搜索！"
-                },
-                {
-                    "link": "http://panother.com/",
-                    "logo": "panother.ico",
-                    "title": "盘他",
-                    "description": "阿里云盘和百度云盘合集！"
                 }
             ]
         },
