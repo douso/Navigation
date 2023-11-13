@@ -44,6 +44,9 @@
                 },
                 {
                     "name": "英语听力"
+                },
+                {
+                    "name": "英语学习"
                 }
             ]
         },
@@ -196,6 +199,12 @@
                     "logo": "Tauri.png",
                     "title": "Tauri",
                     "description": "打包体积非常小的跨平台桌面应用!"
+                },
+                {
+                    "link": "https://picsum.photos/",
+                    "logo": "picsum.png",
+                    "title": "Lorem Picsum",
+                    "description": "免费的图片占位符服务，可以用于网站、应用程序或任何需要占位符图片的地方!"
                 }
             ]
         },
@@ -215,7 +224,7 @@
                     "description": "一套企业级 UI 设计语言和 React 组件库!"
                 },
                 {
-                    "link": "https://vvbin.cn/doc-next/",
+                    "link": "https://github.com/vbenjs/vue-vben-admin",
                     "logo": "vben-admin.png",
                     "title": "Vben Admin",
                     "description": "基于Vue3、Vite、TypeScript等开发的开箱即用前端框架!"
@@ -249,6 +258,12 @@
         {
             "name": "算法资源",
             "list": [
+                {
+                    "link": "https://www.hello-algo.com/",
+                    "logo": "hello-algo.png",
+                    "title": "Hello 算法",
+                    "description": "动画图解、一键运行的数据结构与算法教程"
+                },
                 {
                     "link": "https://leetcode-cn.com/",
                     "logo": "leetcode.png",
@@ -383,15 +398,15 @@
             "name": "电子书",
             "list": [
                 {
-                    "link": "https://zh.singlelogin.me/",
-                    "logo": "hk1lib.svg",
-                    "title": "Zlibrary",
-                    "description": "免费搜索和下载书籍，图书资源丰富！"
+                    "link": "https://weread.qq.com/",
+                    "logo": "weread.png",
+                    "title": "微信读书",
+                    "description": "微信读书提供海量正版书籍、小说、漫画、公众号、听书，多设备同步实现跨屏阅读！"
                 },
                 {
-                    "link": "https://lib-tztyynlmwzmaxxhsav2agn2t.1lib.at/",
+                    "link": "https://zh.zlibrary-east.se/",
                     "logo": "hk1lib.svg",
-                    "title": "数字图书馆",
+                    "title": "Zlibrary",
                     "description": "免费搜索和下载书籍，图书资源丰富！"
                 },
                 {
@@ -411,6 +426,12 @@
                     "logo": "loreFree.png",
                     "title": "LoreFree",
                     "description": "LoreFree-去中心化免费电子书共享社区！"
+                },
+                {
+                    "link": "https://www.gushiwen.cn/",
+                    "logo": "gushiwen.ico",
+                    "title": "古诗文网",
+                    "description": "专注于古诗文服务，致力于让古诗文爱好者更便捷地发表及获取古诗文相关资料！"
                 }
             ]
         },
@@ -521,6 +542,29 @@
             ]
         },
         {
+            "name": "英语学习",
+            "list": [
+                {
+                    "link": "https://www.duolingo.com/",
+                    "logo": "duolingo.ico",
+                    "title": "多邻国",
+                    "description": "人人都可免费使用多邻国的网站和移动应用。小口小口啃英语，科学又有趣！"
+                },
+                {
+                    "link": "https://www.voscreen.com/",
+                    "logo": "voscreen.ico",
+                    "title": "Voscreen",
+                    "description": "通过观看影视片段，帮助学习者提高听力理解和语法运用能力！"
+                },
+                {
+                    "link": "https://tw.voicetube.com/",
+                    "logo": "voicetube.webp",
+                    "title": "VoiceTube",
+                    "description": "看视频学英语，用最实用有趣的影音，在线学英文！"
+                }
+            ]
+        },
+        {
             "name": "工具箱",
             "list": [
                 {
@@ -558,6 +602,36 @@
                     "logo": "zenvideo.ico",
                     "title": "智影",
                     "description": "帮助用户高效完成视频剪辑、文章转视频、智能去水印、文本转语音等操作！"
+                },
+                {
+                    "link": "https://www.pointofix.de/download.php",
+                    "logo": "pointofix.ico",
+                    "title": "电子教鞭",
+                    "description": "可以在屏幕上做标注和绘制，方便演示和教学！"
+                },
+                {
+                    "link": "https://vectormagic.com/",
+                    "logo": "vectormagic.png",
+                    "title": "Vector Magic",
+                    "description": "轻松将JPG、PNG、BMP、GIF位图图像转换为SVG、EPS、PDF、AI、DXF矢量图像！"
+                },
+                {
+                    "link": "https://www.logosc.cn/",
+                    "logo": "logosc.png",
+                    "title": "标小智",
+                    "description": "智能LOGO在线设计生成器！"
+                },
+                {
+                    "link": "https://cloudconvert.com/",
+                    "logo": "cloudconvert.png",
+                    "title": "CloudConvert",
+                    "description": "文件格式转换器服务-支持200多种不同的音频、视频、文档、电子书、图像等格式!"
+                },
+                {
+                    "link": "https://old.xunjietupian.com/xiufu/",
+                    "logo": "xunjietupian.ico",
+                    "title": "智能修复老照片",
+                    "description": "在线老照片修复软件!"
                 }
             ]
         },
