@@ -358,16 +358,28 @@
                     "description": "Stable Diffusion关键词搜索引擎！"
                 },
                 {
-                    "link": "https://lexica.art/",
+                    "link": "https://huggingface.co/",
                     "logo": "huggingface.ico",
                     "title": "Hugging Face",
                     "description": "AI社区，可下载模型！"
                 },
                 {
-                    "link": "https://lexica.art/",
+                    "link": "https://civitai.com/",
                     "logo": "civitai.ico",
                     "title": "Civitai",
-                    "description": "Stable Diffusion models, embeddings, hypernetworks and more！"
+                    "description": "探索数千个高质量的稳定扩散模型，分享您的人工智能生成的艺术，并与充满活力的创作者社区互动！"
+                },
+                {
+                    "link": "https://scribblediffusion.com/",
+                    "logo": "scribblediffusion.ico",
+                    "title": "Scribble Diffusion",
+                    "description": "使用AI将草图转化为精细图像！"
+                },
+                {
+                    "link": "https://stablediffusionweb.com/",
+                    "logo": "stablediffusionweb.ico",
+                    "title": "Stable Diffusion",
+                    "description": "免费的AI图像生成器！"
                 }
             ]
         },
@@ -387,7 +399,7 @@
                     "description": "阿里云盘资源分享,阿里云盘福利码,阿里云盘资源搜索！"
                 },
                 {
-                    "link": "http://panother.com/",
+                    "link": "https://panothers.com/",
                     "logo": "panother.ico",
                     "title": "盘他",
                     "description": "阿里云盘和百度云盘合集！"
@@ -420,12 +432,6 @@
                     "logo": "sobooks.png",
                     "title": "SoBooks",
                     "description": "Kindle电子书,mobi电子书,epub电子书,azw3电子书！"
-                },
-                {
-                    "link": "https://ebook2.lorefree.com/",
-                    "logo": "loreFree.png",
-                    "title": "LoreFree",
-                    "description": "LoreFree-去中心化免费电子书共享社区！"
                 },
                 {
                     "link": "https://www.gushiwen.cn/",
