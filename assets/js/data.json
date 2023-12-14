@@ -86,13 +86,13 @@
                 },
                 {
                     "link": "https://caniuse.com/",
-                    "logo": "caniuse.png",
+                    "logo": "caniuse.jpg",
                     "title": "Can I use",
                     "description": "提供最新的浏览器支持表，用于在桌面和移动web浏览器上支持前端web技术！"
                 },
                 {
                     "link": "https://tinypng.com/",
-                    "logo": "tinypng.png",
+                    "logo": "tinypng.jpg",
                     "title": "TinyPNG",
                     "description": "TinyPNG将WebP、PNG和JPEG图像优化50-80%，同时保持完全透明！"
                 },
@@ -385,25 +385,25 @@
             "list": [
                 {
                     "link": "https://lexica.art/",
-                    "logo": "lexica.ico",
+                    "logo": "lexica.png",
                     "title": "Lexica",
                     "description": "Stable Diffusion关键词搜索引擎！"
                 },
                 {
                     "link": "https://huggingface.co/",
-                    "logo": "huggingface.ico",
+                    "logo": "huggingface.png",
                     "title": "Hugging Face",
                     "description": "AI社区，可下载模型！"
                 },
                 {
                     "link": "https://civitai.com/",
-                    "logo": "civitai.ico",
+                    "logo": "civitai.png",
                     "title": "Civitai",
                     "description": "探索数千个高质量的稳定扩散模型，分享您的人工智能生成的艺术，并与充满活力的创作者社区互动！"
                 },
                 {
                     "link": "https://scribblediffusion.com/",
-                    "logo": "scribblediffusion.ico",
+                    "logo": "scribblediffusion.png",
                     "title": "Scribble Diffusion",
                     "description": "使用AI将草图转化为精细图像！"
                 },
@@ -432,7 +432,7 @@
                 },
                 {
                     "link": "https://panothers.com/",
-                    "logo": "panother.ico",
+                    "logo": "panother.jpg",
                     "title": "盘他",
                     "description": "阿里云盘和百度云盘合集！"
                 }
@@ -526,7 +526,7 @@
                 },
                 {
                     "link": "https://www.scientificamerican.com/",
-                    "logo": "scientificamerican.ico",
+                    "logo": "scientificamerican.jpg",
                     "title": "Scientific American",
                     "description": "科学美国人满满的趣味性、科普性，可以帮助我们拓宽眼界，为自己的大脑充电！"
                 },
@@ -566,12 +566,6 @@
                     "description": "一个专注于译制知识视频的平台！"
                 },
                 {
-                    "link": "https://tw.voicetube.com/",
-                    "logo": "VoiceTube.png",
-                    "title": "VoiceTube",
-                    "description": "看影片學英語｜上萬部英文學習影片，每天更新！"
-                },
-                {
                     "link": "https://edition.cnn.com/",
                     "logo": "edition-cnn.png",
                     "title": "CNN International",
@@ -584,7 +578,7 @@
             "list": [
                 {
                     "link": "https://www.duolingo.com/",
-                    "logo": "duolingo.ico",
+                    "logo": "duolingo.png",
                     "title": "多邻国",
                     "description": "人人都可免费使用多邻国的网站和移动应用。小口小口啃英语，科学又有趣！"
                 },
@@ -631,13 +625,13 @@
                 },
                 {
                     "link": "https://freessl.cn/",
-                    "logo": "freessl.ico",
+                    "logo": "freessl.png",
                     "title": "FreeSSL",
                     "description": "一个提供免费HTTPS证书申请的网站！"
                 },
                 {
                     "link": "https://zenvideo.qq.com/",
-                    "logo": "zenvideo.ico",
+                    "logo": "zenvideo.png",
                     "title": "智影",
                     "description": "帮助用户高效完成视频剪辑、文章转视频、智能去水印、文本转语音等操作！"
                 },
@@ -667,9 +661,15 @@
                 },
                 {
                     "link": "https://old.xunjietupian.com/xiufu/",
-                    "logo": "xunjietupian.ico",
+                    "logo": "xunjietupian.png",
                     "title": "智能修复老照片",
                     "description": "在线老照片修复软件!"
+                },
+                {
+                    "link": "https://bigjpg.com/",
+                    "logo": "bigjpg.jpg",
+                    "title": "Bigjpg",
+                    "description": "AI人工智能图片无损放大!"
                 }
             ]
         },
@@ -684,7 +684,7 @@
                 },
                 {
                     "link": "https://coderadio.freecodecamp.org/",
-                    "logo": "freecodecamp.png",
+                    "logo": "freecodecamp.jpg",
                     "title": "freecodecamp",
                     "description": "开发人员全天候专注音乐！"
                 },
@@ -702,13 +702,13 @@
                 },
                 {
                     "link": "https://chillstep.info",
-                    "logo": "chillstep.png",
+                    "logo": "chillstep.jpg",
                     "title": "chillstep",
                     "description": "全天候播放缓慢、深沉、旋律优美、醇厚的dubstep音乐，以及与之密切相关的小众音乐类型!"
                 },
                 {
                     "link": "https://radio.madza.dev/",
-                    "logo": "DevTunes.ico",
+                    "logo": "DevTunes.png",
                     "title": "DevTunes FM",
                     "description": "为不同类型电台的编码员提供在线广播!"
                 },
