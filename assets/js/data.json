@@ -11,6 +11,9 @@
                     "name": "JavaScript库"
                 },
                 {
+                    "name": "CDN服务"
+                },
+                {
                     "name": "UI框架"
                 },
                 {
@@ -205,6 +208,35 @@
                     "logo": "picsum.png",
                     "title": "Lorem Picsum",
                     "description": "免费的图片占位符服务，可以用于网站、应用程序或任何需要占位符图片的地方!"
+                }
+            ]
+        },
+        {
+            "name": "CDN服务",
+            "list": [
+                {
+                    "link": "https://cdn.baomitu.com/",
+                    "logo": "75cdn.png",
+                    "title": "75CDN",
+                    "description": "360提供的免费CDN加速服务!"
+                },
+                {
+                    "link": "https://www.bootcdn.cn/",
+                    "logo": "bootcdn.png",
+                    "title": "BootCDN",
+                    "description": "BootCDN提供的免费CDN加速服务!"
+                },
+                {
+                    "link": "https://staticfile.org/",
+                    "logo": "staticfile.png",
+                    "title": "Staticfile CDN",
+                    "description": "七牛云提供的免费CDN加速服务!"
+                },
+                {
+                    "link": "https://unpkg.com/",
+                    "logo": "unpkg.jpg",
+                    "title": "UNPKG",
+                    "description": "UNPKG是一个快速的全球内容交付网络，适用于npm上的所有内容!"
                 }
             ]
         },
