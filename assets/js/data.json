@@ -131,6 +131,12 @@
                     "logo": "openbase.png",
                     "title": "openbase",
                     "description": "帮助开发人员在数百万个开源包中进行选择合适的库"
+                },
+                {
+                    "link": "https://curlconverter.com/",
+                    "logo": "curlconverter.ico",
+                    "title": "curlconverter",
+                    "description": "用于将cURL命令转换为多种语言代码的实用程序"
                 }
             ]
         },
