@@ -554,6 +554,12 @@
             "name": "英语听力",
             "list": [
                 {
+                    "link": "https://etc.usf.edu/lit2go/",
+                    "logo": "lit2go.ico",
+                    "title": "Lit2Go",
+                    "description": "一个免费的线上阅读网站，提供几百本英文有声书的免费资源，读者可以边听边看！"
+                },
+                {
                     "link": "https://www.ted.com/",
                     "logo": "ted.png",
                     "title": "TED",
@@ -564,12 +570,6 @@
                     "logo": "51voa.jpg",
                     "title": "51voa",
                     "description": "美国之音-VOA听力下载,慢速英语,常速英语,VOA视频！"
-                },
-                {
-                    "link": "https://www.yxgapp.com/",
-                    "logo": "yxgapp.png",
-                    "title": "译学馆",
-                    "description": "一个专注于译制知识视频的平台！"
                 },
                 {
                     "link": "https://edition.cnn.com/",
