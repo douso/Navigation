@@ -50,6 +50,9 @@
                 },
                 {
                     "name": "英语学习"
+                },
+                {
+                    "name": "英语工具"
                 }
             ]
         },
@@ -599,6 +602,35 @@
                     "logo": "voicetube.webp",
                     "title": "VoiceTube",
                     "description": "看视频学英语，用最实用有趣的影音，在线学英文！"
+                }
+            ]
+        },
+        {
+            "name": "英语工具",
+            "list": [
+                {
+                    "link": "https://search.linggle.com/",
+                    "logo": "linggle.png",
+                    "title": "Linggle",
+                    "description": "英语词组或句子参考搜索引擎！"
+                },
+                {
+                    "link": "https://onelook.com/",
+                    "logo": "onelook.png",
+                    "title": "OneLook",
+                    "description": "在线英文词典数据库！"
+                },
+                {
+                    "link": "https://www.vocabulary.com/",
+                    "logo": "vocabulary.png",
+                    "title": "Vocabulary",
+                    "description": "查询单词，但例句都是源于欧美主流网站及报刊！"
+                },
+                {
+                    "link": "https://www.etymonline.com/",
+                    "logo": "etymonline.png",
+                    "title": "Etymonline",
+                    "description": "查询单词的起源与演变，追根溯源，堪称英语版的“说文解字”！"
                 }
             ]
         },
