@@ -11,6 +11,12 @@
                     "name": "JavaScript库"
                 },
                 {
+                    "name": "前端框架"
+                },
+                {
+                    "name": "后端框架"
+                },
+                {
                     "name": "CDN服务"
                 },
                 {
@@ -207,16 +213,51 @@
                     "description": "轻量级手机网页的前端开发者调试面板!"
                 },
                 {
-                    "link": "https://tauri.app/zh/",
-                    "logo": "Tauri.png",
-                    "title": "Tauri",
-                    "description": "打包体积非常小的跨平台桌面应用!"
-                },
-                {
                     "link": "https://picsum.photos/",
                     "logo": "picsum.png",
                     "title": "Lorem Picsum",
                     "description": "免费的图片占位符服务，可以用于网站、应用程序或任何需要占位符图片的地方!"
+                }
+            ]
+        },
+        {
+            "name": "前端框架",
+            "list": [
+                {
+                    "link": "https://component-party.dev/",
+                    "logo": "component_party.png",
+                    "title": "Component party",
+                    "description": "JS各框架语法特性对比!<br/><a style='color:#d94747;' target='_blank' href='https://component-party.lainbo.com/'>中文版本网站</a>"
+                },
+                {
+                    "link": "https://cn.vuejs.org/",
+                    "logo": "vue.svg",
+                    "title": "Vue.js",
+                    "description": "渐进式JavaScript框架，用于构建用户界面!"
+                },
+                {
+                    "link": "https://react.dev/",
+                    "logo": "react.png",
+                    "title": "React",
+                    "description": "用于开发具有复杂交互和数据状态管理需求的单页应用!"
+                },
+                {
+                    "link": "https://svelte.dev/",
+                    "logo": "svelte.png",
+                    "title": "Svelte",
+                    "description": "Svelte是一个用于构建高效Web应用的编译型前端JavaScript框架!"
+                },
+                {
+                    "link": "https://astro.build/",
+                    "logo": "astro.svg",
+                    "title": "Astro",
+                    "description": "内容驱动网站的网络框架!"
+                },
+                {
+                    "link": "https://tauri.app/zh/",
+                    "logo": "Tauri.png",
+                    "title": "Tauri",
+                    "description": "打包体积非常小的跨平台桌面应用!"
                 }
             ]
         },
@@ -253,7 +294,7 @@
             "name": "UI框架",
             "list": [
                 {
-                    "link": "https://element-plus.gitee.io/zh-CN/#/zh-CN/component/installation",
+                    "link": "https://element-plus.org/zh-CN/",
                     "logo": "element-plus.svg",
                     "title": "Element Plus",
                     "description": "一个 Vue 3 UI 框架!"
@@ -277,13 +318,13 @@
                     "description": "基于vue3+vite+element-plus开发的后台管理系统模板!"
                 },
                 {
-                    "link": "https://taro.jd.com/",
+                    "link": "https://taro.zone/",
                     "logo": "Taro.png",
                     "title": "Taro",
                     "description": "京东凹凸实验室开发的多端统一开发解决方案!"
                 },
                 {
-                    "link": "https://varlet.gitee.io/varlet-ui/#/zh-CN/home",
+                    "link": "https://github.com/varletjs/varlet",
                     "logo": "varlet_icon.png",
                     "title": "Varlet",
                     "description": "面向 Vue3 的 Material 风格移动端组件库!"
@@ -457,7 +498,7 @@
                     "description": "微信读书提供海量正版书籍、小说、漫画、公众号、听书，多设备同步实现跨屏阅读！"
                 },
                 {
-                    "link": "https://zh.zlibrary-east.se/",
+                    "link": "https://articles.sk/",
                     "logo": "hk1lib.svg",
                     "title": "Zlibrary",
                     "description": "免费搜索和下载书籍，图书资源丰富！"
