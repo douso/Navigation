@@ -91,6 +91,12 @@ function showMenu(menu) {
     $("#main-menu").html(html)
 }
 
+function toLink(event, url) {
+    // 阻止默认行为
+    event.stopPropagation(); // 阻止事件冒泡
+    window.open(url, '_blank');
+}
+
 // 渲染导航列表
 function showNavList(navs) {
     let html = ''
@@ -102,6 +108,7 @@ function showNavList(navs) {
         const len = item.list.length
         item.list.forEach((nav, i) => {
             const pos = i + 1
+            const extraHtml = nav.extra ? `<p class="extra-info"><a onclick="toLink(event, '${nav.extra.link}')">${nav.extra.title}</a></p>` : ''
             html += `
             <div class="col-sm-3">
                 <div class="xe-widget xe-conversations box2 label-info" data-url="${nav.link}" data-pos="${m}_${i}" title="${nav.description}">
@@ -113,7 +120,7 @@ function showNavList(navs) {
                             <a class="xe-user-name overflowClip_1">
                                 <strong>${nav.title}</strong>
                             </a>
-                            <p class="overflowClip_2">${nav.description}</p>
+                            <p class="overflowClip_2">${nav.description}${extraHtml}</p>
                         </div>
                     </div>
                 </div>

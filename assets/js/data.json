@@ -224,7 +224,11 @@
                     "link": "https://component-party.dev/",
                     "logo": "component_party.png",
                     "title": "Component party",
-                    "description": "JS各框架语法特性对比!<br/><a style='color:#d94747;' target='_blank' href='https://component-party.lainbo.com/'>中文版本网站</a>"
+                    "description": "JS各框架语法特性对比!",
+                    "extra": {
+                        "title": "中文版本网站",
+                        "link": "https://component-party.lainbo.com/"
+                    }
                 },
                 {
                     "link": "https://cn.vuejs.org/",
