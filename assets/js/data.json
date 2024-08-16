@@ -14,6 +14,9 @@
                     "name": "前端框架"
                 },
                 {
+                    "name": "在线开发"
+                },
+                {
                     "name": "CDN服务"
                 },
                 {
@@ -72,6 +75,16 @@
         {
             "name": "常用工具",
             "list": [
+                {
+                    "link": "https://zh-hans.ipshu.com/",
+                    "logo": "ipshu.png",
+                    "title": "IP地址查询工具",
+                    "description": "IP查询工具，查询IP地址的详细信息，包括IP地址、物理地址、运营商、国家、地区、城市、经纬度等信息。",
+                    "extra": {
+                        "title": "国外地址",
+                        "link": "https://en.ipshu.com/"
+                    }
+                },
                 {
                     "link": "https://www.skypack.dev/",
                     "logo": "skypack.png",
@@ -143,6 +156,16 @@
                     "logo": "curlconverter.ico",
                     "title": "curlconverter",
                     "description": "用于将cURL命令转换为多种语言代码的实用程序"
+                },
+                {
+                    "link": "https://sslip.io/",
+                    "logo": "sslip.ico",
+                    "title": "sslip.io",
+                    "description": "用于创建本地IP地址的DNS子域，",
+                    "extra": {
+                        "title": "nip.io",
+                        "link": "https://nip.io/"
+                    }
                 }
             ]
         },
@@ -263,6 +286,35 @@
             ]
         },
         {
+            "name": "在线开发",
+            "list": [
+                {
+                    "link": "https://stackblitz.com/",
+                    "logo": "stackblitz.svg",
+                    "title": "StackBlitz",
+                    "description": "StackBlitz 是一款强大的在线集成开发环境（IDE），专为 Web 开发者设计！"
+                },
+                {
+                    "link": "https://codepen.io/",
+                    "logo": "codepen.svg",
+                    "title": "CodePen",
+                    "description": "CodePen 是面向前端设计师和开发者的社交开发环境！"
+                },
+                {
+                    "link": "https://codesandbox.io/",
+                    "logo": "codesandbox.ico",
+                    "title": "CodeSandbox",
+                    "description": "Codesandbox 是一个免费的在线编辑器，用于快速 Web 开发！"
+                }, 
+                {
+                    "link": "https://playcode.io/",
+                    "logo": "playcode.svg",
+                    "title": "PlayCode",
+                    "description": "Playcode 是免费的IDE无需登录，支持自托管！"
+                }
+            ]
+        },
+        {
             "name": "CDN服务",
             "list": [
                 {
@@ -288,6 +340,24 @@
                     "logo": "unpkg.jpg",
                     "title": "UNPKG",
                     "description": "UNPKG是一个快速的全球内容交付网络，适用于npm上的所有内容!"
+                },
+                {
+                    "link": "https://cdnjs.com/",
+                    "logo": "cdnjs.png",
+                    "title": "cdnjs",
+                    "description": "cdnjs是一个免费的CDN服务，提供全球内容分发网络!"
+                },
+                {
+                    "link": "https://www.jsdelivr.com/",
+                    "logo": "jsDelivr.png",
+                    "title": "jsDelivr",
+                    "description": "jsDelivr是一个免费的开源CDN服务，提供全球内容分发网络!"
+                },
+                {
+                    "link": "https://esm.sh/",
+                    "logo": "esm.sh.svg",
+                    "title": "esm.sh",
+                    "description": "esm.sh是一个快速的、全球分布式的JavaScript库CDN服务!"
                 }
             ]
         },
@@ -435,6 +505,12 @@
             "name": "AI工具",
             "list": [
                 {
+                    "link": "https://ai-bot.cn/",
+                    "logo": "ai-bot.png",
+                    "title": "AI工具集",
+                    "description": "AI工具集官网收录了国内外数百个AI工具！"
+                },
+                {
                     "link": "https://lexica.art/",
                     "logo": "lexica.png",
                     "title": "Lexica",
@@ -511,7 +587,7 @@
                     "description": "涵盖了大量编程、计算机类书籍！"
                 },
                 {
-                    "link": "https://sobooks.net/",
+                    "link": "https://sobooks.cc/",
                     "logo": "sobooks.png",
                     "title": "SoBooks",
                     "description": "Kindle电子书,mobi电子书,epub电子书,azw3电子书！"
@@ -680,6 +756,16 @@
             "name": "工具箱",
             "list": [
                 {
+                    "link": "https://snapdrop.net/",
+                    "logo": "snapdrop.png",
+                    "title": "SnapDrop",
+                    "description": "snapdrop是一款基于WebRTC技术的点对点文件传输工具，无需安装任何软件或插件，只需在浏览器中打开snapdrop官网即可使用。",
+                    "extra": {
+                        "title": "PairDrop",
+                        "link": "https://pairdrop.net/"
+                    }
+                },
+                {
                     "link": "https://www.pdfpai.com/",
                     "logo": "pdfpai.png",
                     "title": "PDF派",
@@ -718,8 +804,14 @@
                 {
                     "link": "https://www.pointofix.de/download.php",
                     "logo": "pointofix.ico",
-                    "title": "电子教鞭",
+                    "title": "Pointofix",
                     "description": "可以在屏幕上做标注和绘制，方便演示和教学！"
+                },
+                {
+                    "link": "https://www.simplestickynotes.com/",
+                    "logo": "simplestickynotes.png",
+                    "title": "Simple Sticky Notes",
+                    "description": "一款简洁的便签应用，可以让你在电脑桌面上创建和查看便签！"
                 },
                 {
                     "link": "https://vectormagic.com/",
