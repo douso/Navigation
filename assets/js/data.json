@@ -166,6 +166,28 @@
                         "title": "nip.io",
                         "link": "https://nip.io/"
                     }
+                },
+                {
+                    "link": "https://theboroer.github.io/localtunnel-www/",
+                    "logo": "localtunnel.ico",
+                    "title": "Localtunnel",
+                    "description": "代理本地服务至外网",
+                    "extra": {
+                        "title": "github",
+                        "link": "https://github.com/localtunnel/localtunnel"
+                    }
+                },
+                {
+                    "link": "https://puter.com",
+                    "logo": "puter.png",
+                    "title": "Puter",
+                    "description": "Puter 是一个先进的开源桌面环境，运行在浏览器中，旨在具备丰富的功能、异常快速和高度可扩展性。"
+                },
+                {
+                    "link": "https://devdocs.io/",
+                    "logo": "devdocs.png",
+                    "title": "DevDocs",
+                    "description": "DevDocs 是一个在线API文档查看器，可以同时查看多个文档。"
                 }
             ]
         },
@@ -191,10 +213,14 @@
                     "description": "Vue.Draggable是一款基于Sortable.js实现的vue拖拽插件!"
                 },
                 {
-                    "link": "http://www.browsersync.cn/",
+                    "link": "https://browsersync.io",
                     "logo": "browsersync.png",
                     "title": "Browsersync",
-                    "description": "BrowserSync能让浏览器实时、快速响应您的文件（html、js、css、sass、less等等）的更改，BrowserSync支持多终端(PC、ipad、iphone、android等等)设备同时调试!"
+                    "description": "BrowserSync能让浏览器实时、快速响应您的文件（html、js、css、sass、less等等）的更改，BrowserSync支持多终端(PC、ipad、iphone、android等等)设备同时调试!",
+                    "extra": {
+                        "title": "github",
+                        "link": "https://github.com/Browsersync/browser-sync"
+                    }
                 },
                 {
                     "link": "https://obfuscator.io/",
@@ -769,19 +795,13 @@
                     "link": "https://www.pdfpai.com/",
                     "logo": "pdfpai.png",
                     "title": "PDF派",
-                    "description": "几十个强大的PDF在线工具，无限次使用，永久免费，没有注册入口，人人都是VIP！"
+                    "description": "几十个强大的PDF在线工具！"
                 },
                 {
                     "link": "https://www.zybuluo.com/",
                     "logo": "cmdmakrdown.png",
                     "title": "Cmd Markdown",
                     "description": "Cmd Markdown 编辑阅读器，支持实时同步预览，区分写作和阅读模式，支持在线存储，分享文稿网址。"
-                },
-                {
-                    "link": "https://github.com/freefq/free",
-                    "logo": "github.png",
-                    "title": "翻墙梯子",
-                    "description": "免费翻墙、免费科学上网、免费节点、免费梯子、免费ss/v2ray/trojan节点！"
                 },
                 {
                     "link": "https://u.tools/",
